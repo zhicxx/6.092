@@ -1,3 +1,4 @@
-*
-!*.java
-!.gitignore
+git rm -r --cached .
+git add .
+git commit -m "Track all java files properly"
+git push
